@@ -119,7 +119,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
+            url: 'https://github.com/Alexpian1995'
         styles:
           self:
             textAlign: left
