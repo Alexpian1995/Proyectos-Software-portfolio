@@ -7,7 +7,7 @@ client: Cesde
 description: Sistema de gestión de horarios de empleados.
 featuredImage:
   type: ImageBlock
-  url: /images/Screenshot_20240616_085914_Camera360 (1).jpg
+  url: /images/WhatsApp Image 2024-11-21 at 11.20.42 AM.jpeg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
