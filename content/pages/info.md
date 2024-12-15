@@ -77,10 +77,6 @@ sections:
         url: /images/pto.png
         altText: Logo two
         caption: Logo two
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
     spacing: 3
     columns: 5
     aspectRatio: auto
