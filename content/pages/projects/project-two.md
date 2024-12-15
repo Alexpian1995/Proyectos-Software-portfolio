@@ -18,6 +18,10 @@ media:
 ---
 Khronos es un sistema de gestión de horarios, donde, por medio de un administrador, se puede crear, consultar, editar y eliminar empleados. También es posible seleccionar un empleado y registrar su hora de entrada y salida, sus horas extra y ausencias. Además, se puede realizar un análisis de información con gráficos y exportarlo en PDF para la gestión de informes. Este programa no cuenta con un sistema de roles; solo el administrador puede acceder y administrar el sistema.
 
+Este fue mi proyecto de grado, el cual presenté en mi técnica asistencial en desarrollo de software en el Cesde. Las tecnologías que utilicé fueron React, HTML, CSS, Bootstrap, JavaScript y Firebase como base de datos.
+
+
+
 El sistema cuenta con un inicio de sesión para crear usuarios o registrarse.
 
 ![](/images/login1.png)
@@ -87,4 +91,3 @@ Mediante este icono puedo cerrar sesión.
 
 ![](/images/cerr.png)
 
-Este fue mi proyecto de grado, el cual presenté en mi técnica asistencial en desarrollo de software en el Cesde. Las tecnologías que utilicé fueron React, HTML, CSS, Bootstrap, JavaScript y Firebase como base de datos.
