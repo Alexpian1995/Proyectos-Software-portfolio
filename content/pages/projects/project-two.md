@@ -7,7 +7,7 @@ client: Cesde
 description: Sistema de gestión de horarios de empleados.
 featuredImage:
   type: ImageBlock
-  url: /images/Khronos.png
+  url: /images/Screenshot_20240616_085914_Camera360 (1).jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
