@@ -212,6 +212,9 @@ sections:
       - type: Label
         label: PHP
         url: ''
+      - type: Label
+        label: Java
+        url: ''
   - type: DividerSection
     styles:
       self:
