@@ -218,6 +218,9 @@ sections:
       - type: Label
         label: Power Bi
         url: ''
+      - type: Label
+        label: GitHub
+        url: ''
   - type: DividerSection
     styles:
       self:
