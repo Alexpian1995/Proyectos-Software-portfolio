@@ -210,7 +210,7 @@ sections:
       - type: Label
         label: Netlify
       - type: Label
-        label: PHP
+        label: Php
         url: ''
       - type: Label
         label: Java
