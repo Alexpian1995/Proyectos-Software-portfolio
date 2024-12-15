@@ -298,7 +298,7 @@ sections:
               - pb-0
               - pr-0
       - type: FeaturedItem
-        subtitle: 'Education:'
+        subtitle: 'Educación:'
         text: |+
           **2015-2018**
 
