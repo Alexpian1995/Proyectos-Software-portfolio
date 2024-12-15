@@ -13,14 +13,21 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ```
+
+      Soy un desarrollador de software junior, tengo 2 años de experiencia
+      desarrollando sitios web desde la parte FrontEnd y BackEnd. Soy graduado
+      como tecnólogo y técnico en desarrollo de software. Cuando no estoy
+      desarrollando me gusta tocar el piano.
+
+
+
+      ```
+
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/Screenshot_20240616_085914_Camera360 (1).jpg
       altText: Hero image
     styles:
       self:
@@ -60,28 +67,16 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked with these folks:'
+    subtitle: Trabajé con estas empresas.
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/soporti.png
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/logo2.svg
+        url: /images/pto.png
         altText: Logo two
         caption: Logo two
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
     spacing: 3
     columns: 5
     aspectRatio: auto
@@ -124,50 +119,28 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
+            url: 'https://github.com/Alexpian1995'
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
+        title: LINKENDIN
+        subtitle: ''
+        text: ''
+        elementId: ''
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
         actions:
           - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
-        styles:
-          self:
-            textAlign: left
+            label: ''
+            altText: ''
+            url: >-
+              /https://www.linkedin.com/in/anderson-alexander-alzate-mesa-baba3330b/
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
     columns: 3
     spacingX: 120
     spacingY: 0
@@ -207,21 +180,45 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
-      - type: Label
         label: React
       - type: Label
         label: Microsoft Office
       - type: Label
-        label: Next.js
+        label: Php
+        url: ''
       - type: Label
-        label: Netlify
+        label: Java
+        url: ''
       - type: Label
-        label: Pancakes
+        label: Sql
+        url: ''
       - type: Label
-        label: C++
+        label: MySql
+        url: ''
       - type: Label
-        label: Swift
+        label: Power Apps
+        url: ''
+      - type: Label
+        label: Power Bi
+        url: ''
+      - type: Label
+        label: GitHub
+        url: ''
+      - type: Label
+        label: Html
+        url: ''
+      - type: Label
+        label: Css
+        url: ''
+      - type: Label
+        label: Android Studio
+        url: ''
+      - type: Label
+        label: JavaScript
+        url: ''
+      - type: Label
+        label: Node.js
+        url: ''
   - type: DividerSection
     styles:
       self:
@@ -238,8 +235,11 @@ sections:
     variant: variant-a
     subtitle: 'Contact:'
     colors: colors-f
-    text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+    text: |+
+      ```
+      alexanderalzate53@gmail.com
+      ```
+
   - type: DividerSection
     styles:
       self:
@@ -256,27 +256,23 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        subtitle: 'Experience:'
-        text: |-
-          **Current**
+        subtitle: 'Experiencia:'
+        text: |
+          ```
+          Actual
+          ```
 
-          * freelance @freelance.me
+          *   Analista de calidad.
 
-          **2018-2021**
+          **2022-2024**
 
-          * fullstack at this startup
+          *   Auxiliar Mesa de Ayuda y desarrollador.
 
-          **2015**
+          **2021-2022**
 
-          * senior front-end at this place
+          *   Auxiliar Administrativo.
 
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
+          **2018**
         styles:
           self:
             textAlign: left
@@ -286,19 +282,20 @@ sections:
               - pb-0
               - pr-0
       - type: FeaturedItem
-        subtitle: 'Education:'
-        text: |-
+        subtitle: 'Educación:'
+        text: |+
           **2015-2018**
 
-          * ba computer sciense at a semi fancy school
+          *   Tecnólogo en Análisis y Desarrollo de Sistemas de Información.
 
-          **2014**
+          **2021-2022**
 
-          * react certificate somewhere
+          *   Técnico en Programación de Software
 
-          **2011**
+          **2022-2024**
 
-          * my highschool
+          *   Técnico Asistencial en Desarrollo de Software.
+
         styles:
           self:
             textAlign: left
@@ -347,7 +344,7 @@ sections:
         borderStyle: solid
   - type: ContactSection
     backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
+    title: "Hablemos... \U0001F4AC"
     colors: colors-f
     form:
       type: FormBlock
@@ -377,7 +374,7 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: Háblame sobre tu proyecto
           isRequired: true
           width: full
           type: TextareaFormControl
@@ -411,4 +408,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
+socialImage: /images/Screenshot_20240616_085914_Camera360 (1).jpg
 ---
