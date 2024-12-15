@@ -270,7 +270,7 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experiencia:'
-        text: |+
+        text: |
           ```
           Actual
           ```
@@ -279,16 +279,13 @@ sections:
 
           **2022-2024**
 
-          *   Auxiliar Mesa de Ayuda y desarrollador
+          *   Auxiliar Mesa de Ayuda y desarrollador.
 
           **2021-2022**
 
           *   Auxiliar Administrativo.
 
           **2018**
-
-
-
         styles:
           self:
             textAlign: left
