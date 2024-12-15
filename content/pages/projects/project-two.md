@@ -26,13 +26,11 @@ Si no estoy registrado me puedo registrar.
 
 ![](/images/login.png)
 
-
 Luego de iniciar sesión, me redirige a un panel de control con toda la información del sistema y su respectivo menú de navegación.
-
 
 ![](/images/dash.png)
 
-Puedo agreagar un empleado.
+Puedo agregar un empleado.
 
 ![](/images/agre.png)
 
@@ -40,16 +38,12 @@ puedo ver, editar y eliminar los empleados creados
 
 ![](/images/consu.png)
 
-Esta consulta la estoy haciendo desde una base de datos en Firebase, 
+Esta consulta la estoy haciendo desde una base de datos en Firebase,
 
 ![](/images/fire.png)
 
-
-
 > “
 > "Todos deberían aprender a programar una computadora, porque te enseña a pensar."
->
->
 
 Puedo seleccionar un empleado y registrar sus acciones
 
@@ -67,11 +61,9 @@ Después que se registra la asistencia, muestra un mensaje de registro creado.
 
 ![](/images/sel4.png)
 
-Luego de registrarlo, me muestra las horas trabajadas, 2 horas extras y en Ausencia me parece "No" porque el empleado se presento a trabajar. 
+Luego de registrarlo, me muestra las horas trabajadas, 2 horas extras y en Ausencia me parece "No" porque el empleado se presento a trabajar.
 
 Ya luego el administrador selecciona si lo aprueba o no.
-
-
 
 ![](/images/sele5.png)
 
@@ -95,6 +87,4 @@ Mediante este icono puedo cerrar sesión.
 
 ![](/images/cerr.png)
 
-
 Este fue mi proyecto de grado, el cual presenté en mi técnica asistencial en desarrollo de software en el Cesde. Las tecnologías que utilicé fueron React, HTML, CSS, Bootstrap, JavaScript y Firebase como base de datos.
-
