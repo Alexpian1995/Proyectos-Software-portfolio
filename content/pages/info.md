@@ -221,6 +221,9 @@ sections:
       - type: Label
         label: MySql
         url: ''
+      - type: Label
+        label: Power Apps
+        url: ''
   - type: DividerSection
     styles:
       self:
