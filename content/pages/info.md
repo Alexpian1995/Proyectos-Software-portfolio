@@ -159,7 +159,7 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://www.instagram.com/'
+            url: 'https://www.instagram.com/alexpian7/'
         styles:
           self:
             textAlign: left
