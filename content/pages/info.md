@@ -390,7 +390,7 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: Háblame sobre tu proyecto
           isRequired: true
           width: full
           type: TextareaFormControl
