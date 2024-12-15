@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Soy un desarrollador de software junior
+    title: Soy un desarrollador de software junior con 2 años de experiencia.
     subtitle: >-
       Esta es mi información: la comparto con ustedes para impresionarlos con
       todo el trabajo duro que he realizado en los últimos años. Una vez que
