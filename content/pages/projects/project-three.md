@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Un proyecto más.
 colors: colors-a
 date: '2016-08-22'
-client: Awesome client
+client: Sena
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
   because I worked with an entire team :) but they definitely followed my lead
