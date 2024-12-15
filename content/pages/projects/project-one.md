@@ -26,6 +26,10 @@ Inicio sesión.
 
 ![](/images/log.png)
 
+La base de datos con el usuario creado 
+
+![](/images/baseminomi.png)
+
 Vista principal.
 
 ![](/images/liqui.png)
@@ -42,7 +46,7 @@ Este es el pdf generado.
 
 ![](/images/resultadopdf.png)
 
-Acá puedo calcular mi pago de quincena. 
+Acá puedo calcular mi pago de quincena.
 
 ![](/images/calcunomi.png)
 
