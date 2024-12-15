@@ -4,7 +4,7 @@ title: Khronos
 colors: colors-a
 date: '2024-11-29'
 client: Cesde
-description: ''
+description: Sistema de gestión de horarios de empleados.
 featuredImage:
   type: ImageBlock
   url: /images/login.png
