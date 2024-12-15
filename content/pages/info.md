@@ -224,6 +224,9 @@ sections:
       - type: Label
         label: Power Apps
         url: ''
+      - type: Label
+        label: Power Bi
+        url: ''
   - type: DividerSection
     styles:
       self:
