@@ -299,18 +299,19 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
+        text: |+
           **2015-2018**
 
-          * ba computer sciense at a semi fancy school
+          *   Tecnólogo en Análisis y Desarrollo de Sistemas de Información.
 
-          **2014**
+          **2021-2022**
 
-          * react certificate somewhere
+          *   Técnico en Programación de Software
 
-          **2011**
+          **2022-2024**
 
-          * my highschool
+          *   Técnico Asistencial en Desarrollo de Software.
+
         styles:
           self:
             textAlign: left
