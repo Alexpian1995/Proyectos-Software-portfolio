@@ -20,7 +20,6 @@ Este sistema está creado mediante el modelo Vista-Controlador. Las tecnologías
 
 Login.
 
-
 ![](/images/logincentro.png)
 
 Contenido principal.
@@ -30,6 +29,10 @@ Contenido principal.
 Información de los médicos.
 
 ![](/images/medi2.png)
+
+Base de datos en MySql
+
+![](/images/base.png)
 
 Información de los pacientes.
 
