@@ -10,42 +10,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    title: Soy un desarrollador de software junior con 2 años de experiencia.
-    subtitle: >-
-      Esta es mi información: la comparto con ustedes para impresionarlos con
-      todo el trabajo duro que he realizado en los últimos años. Una vez que
-      estén impresionados, pueden seguir desplazándose hacia abajo para ver más
-      detalles y credenciales sobre mí.
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-    actions: []
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -84,6 +48,42 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Projects
+  - elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    title: Soy un desarrollador de software junior con 2 años de experiencia.
+    subtitle: >-
+      Esta es mi información: la comparto con ustedes para impresionarlos con
+      todo el trabajo duro que he realizado en los últimos años. Una vez que
+      estén impresionados, pueden seguir desplazándose hacia abajo para ver más
+      detalles y credenciales sobre mí.
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row-reverse
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
+    actions: []
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
