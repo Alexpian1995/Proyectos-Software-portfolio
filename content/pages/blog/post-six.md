@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: "How to Structure and Organize a Next.js Project \U0001F5C2️"
+title: Analista de calidad
 colors: colors-a
 date: '2024-12-05'
 author: content/data/team/doris-soto.json
