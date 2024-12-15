@@ -4,10 +4,7 @@ title: Mi Nomina
 colors: colors-a
 date: '2024-06-21'
 client: Cesde
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+description: Sistema para calcular la nomina y liquidación de un empleado.
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
