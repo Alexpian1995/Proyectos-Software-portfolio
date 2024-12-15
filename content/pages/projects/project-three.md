@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Un proyecto más.
+title: Centro Medico
 colors: colors-a
 date: '2016-08-22'
 client: Sena
