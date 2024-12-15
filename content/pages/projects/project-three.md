@@ -7,7 +7,7 @@ client: Sena
 description: Proyecto Centro Medico
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/login.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
