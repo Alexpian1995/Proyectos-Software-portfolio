@@ -215,6 +215,9 @@ sections:
       - type: Label
         label: Java
         url: ''
+      - type: Label
+        label: Sql
+        url: ''
   - type: DividerSection
     styles:
       self:
