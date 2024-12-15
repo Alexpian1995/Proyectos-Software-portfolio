@@ -124,7 +124,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Item Title
+        title: LINKENDIN
         subtitle: ''
         text: ''
         elementId: ''
