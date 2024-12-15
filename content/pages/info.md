@@ -226,6 +226,9 @@ sections:
       - type: Label
         label: Android Studio
         url: ''
+      - type: Label
+        label: JavaScript
+        url: ''
   - type: DividerSection
     styles:
       self:
