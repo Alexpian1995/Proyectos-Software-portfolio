@@ -7,7 +7,7 @@ client: Cesde
 description: Sistema para calcular la nomina y liquidación de un empleado.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/minomi.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
