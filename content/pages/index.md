@@ -150,4 +150,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
+socialImage: /images/Screenshot_20240616_085914_Camera360 (1).jpg
 ---
