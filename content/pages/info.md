@@ -270,26 +270,25 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
+        text: |+
+          ```
+          Actual
+          ```
 
-          * freelance @freelance.me
+          *   Analista de calidad.
 
-          **2018-2021**
+          **2022-2024**
 
-          * fullstack at this startup
+          *   Auxiliar Mesa de Ayuda y desarrollador
 
-          **2015**
+          **2021-2022**
 
-          * senior front-end at this place
+          *   Auxiliar Administrativo.
 
-          **2013**
+          **2018**
 
-          * intern developer at a big company
 
-          **2011**
 
-          * flipping burgers
         styles:
           self:
             textAlign: left
