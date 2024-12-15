@@ -18,11 +18,33 @@ Este proyecto es un Centro Médico virtual que desarrollé como proyecto en el S
 
 Este sistema está creado mediante el modelo Vista-Controlador. Las tecnologías que utilicé fueron HTML, CSS, JavaScript, PHP y MySQL para la base de datos.
 
-
-Login
+Login.
 ![](/images/login.png)
 
 Contenido principal.
 
 ![](/images/planti.png)
 
+Información de los médicos.
+
+![](/images/medi2.png)
+
+Información de los pacientes.
+
+![](/images/pac.png)
+
+Citas atendidas.
+
+![](/images/citas.png)
+
+Acá puedo atender una cita.
+
+![](/images/aten.png)
+
+Acá puedo ver la información de los consultorios.
+
+![](/images/cons.png)
+
+Puedo generar reportes en Pdf, Excel y Word.
+
+![](/images/repor.png)
