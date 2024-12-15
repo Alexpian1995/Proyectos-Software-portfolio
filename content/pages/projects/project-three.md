@@ -11,7 +11,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/planti.png
   altText: Project image
 ---
 Este proyecto es un Centro Médico virtual que desarrollé como proyecto en el SENA. Allí se puede ver la información de los médicos, pacientes, consultorios y citas, además de generar informes en PDF y Excel. También se pueden realizar las operaciones CRUD. Este sistema tiene un inicio de sesión donde los médicos pueden ingresar y administrar el sistema. Los usuarios pueden agregar un nuevo médico, un paciente, asignar una cita y escoger un consultorio, además de editar y eliminar información.
