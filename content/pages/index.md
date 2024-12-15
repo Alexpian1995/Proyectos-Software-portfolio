@@ -134,7 +134,7 @@ sections:
         - name: firstName
           label: Primer Nombre
           hideLabel: true
-          placeholder: Primer Nombre
+          placeholder: ' Nombre'
           isRequired: true
           width: 1/2
           type: TextFormControl
