@@ -19,7 +19,9 @@ Este proyecto es un Centro Médico virtual que desarrollé como proyecto en el S
 Este sistema está creado mediante el modelo Vista-Controlador. Las tecnologías que utilicé fueron HTML, CSS, JavaScript, PHP y MySQL para la base de datos.
 
 Login.
-![](/images/login.png)
+
+
+![](/images/logincentro.png)
 
 Contenido principal.
 
