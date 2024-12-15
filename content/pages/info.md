@@ -70,7 +70,7 @@ sections:
     subtitle: Trabajé con estas empresas.
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/soporti.png
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
